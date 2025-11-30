@@ -1,17 +1,16 @@
-[
-  {
-    "username": "1",
-    "password": "123",
-    "role": "admin"
-  },
-  {
-    "username": "122",
-    "password": "1",
-    "role": "User"
-  },
-  {
-    "username": "Lucifer",
-    "password": "1",
-    "role": "owner"
-  }  
-]
+{
+  "users": [
+    {
+      "username": "lucifer",
+      "password": "1",
+      "role": "Admin",
+      "expired": "2026-11-01"
+    },
+    {
+      "username": "1",
+      "password": "123",
+      "role": "owner",
+      "expired": "permanent"
+    }
+  ]
+}
