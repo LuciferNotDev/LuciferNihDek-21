@@ -1,6 +1,14 @@
-{
-  "allowed": [
-    "6282281093173",
-    "6283172849431"
-  ]
-}
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "role": "admin",
+    "expired": "2027-12-31"
+  },
+  {
+    "username": "lucifer",
+    "password": "1",
+    "role": "owner",
+    "expired": "2029-01-01"
+  }
+]
