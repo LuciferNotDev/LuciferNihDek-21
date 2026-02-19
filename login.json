@@ -1,14 +1,6 @@
-[
-  {
-    "username": "admin",
-    "password": "123",
-    "role": "admin",
-    "expired": "2027-12-31"
-  },
-  {
-    "username": "lucifer",
-    "password": "1",
-    "role": "owner",
-    "expired": "2029-01-01"
-  }
-]
+{
+  "tokens": [
+    "8437676745:AAF58nASjdwVLbiTPJP8pzgXNX1nhd-sqG4",
+    "8396478284:AAGZ7KBfoL8kj5o3i3hhhmtRUK1Ufk9lyxk"
+  ]
+}
