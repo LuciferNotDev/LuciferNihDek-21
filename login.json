@@ -1,8 +1,8 @@
 {
-  "tokens": [
-    "8437676745:AAF58nASjdwVLbiTPJP8pzgXNX1nhd-sqG4",
-    "8396478284:AAGZ7KBfoL8kj5o3i3hhhmtRUK1Ufk9lyxk",
-    "8713676491:AAFnIE4WeUcDcaTIl6ZeUiUpwyxG-ELyykg",
-    "8753119204:AAFiamPbSLwTgkQQPXPYZysWKXY4Hbg2pAs"
+  "users": [
+    {
+      "username": "admin",
+      "password": "puqihytam"
+    }
   ]
 }
